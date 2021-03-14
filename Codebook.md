@@ -34,8 +34,8 @@ The dataset include the following files and the names that were assigned to it:
 
 The columns V1 and V2 of the data frame features were renamed to Code and Functions.
 
-5. In the fifth section we use the new names of the features data frame and transposed it. 
-6. In the sixth section we used the names of the activity column in the features data frame and used it to rename the name of the columns of the trainx data frame later we rename the V1 column of the data frame trainy to Code.
+5. In the fifth section we use the new names of the features data frame and transposed it. \
+6. In the sixth section we used the names of the activity column in the features data frame and used it to rename the name of the columns of the trainx data frame \ later we rename the V1 column of the data frame trainy to Code.\
 7. We use the names of the activity column in the features data frame an use it to rename the names of the columns of the testx then we rename the V1 column of the data frame testy to Code
 8. In this section of the code the column V1 from the subjectrain and subject test data frames to subject. 
 9. In this section the row bind function was used on the trainx and testx and a new data frame called train was created, the same was done with the trainy and testy data frames.
