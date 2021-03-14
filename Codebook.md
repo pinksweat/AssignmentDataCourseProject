@@ -45,16 +45,37 @@ finally we use de function bind to merge all the data frames.
 12. The following changes to the name of the column variables were made: 
 
 -'Acc' has been replaced to 'accelerometer'
+
+
 -'Gyro' has been replaced to 'gyroscope'
+
+
 -'BodyBody' has been replaced to  to 'body'
+
 -'Mag' has been replaced  to 'magnitude'
+
+
 -'^t' has been replaced  to 'time'
+
+
 -'^f 'has been replaced to 'frequency'
+
+
 -'-mean'has been replaced to 'mean'
+
+
 -'-std()' has been replaced to  'STD'
+
+
 -'-freq()'has been replaced to 'frequency '
+
+
 -'angle' has been replaced to 'angle'
+
+
 -'gravity" has been replaced to 'gravity'
+
+
 13. Data3 was created using the data frame data2 and was grouped in subject and activity then the average of each variables.
 14. 14. Creates a txt file
 
