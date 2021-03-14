@@ -9,8 +9,20 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
+
+
+
+
 Codebook.md describe the variables and the data and the transformations that were made.
+
+
+
 run_analysis contains the following transformantions to the data: 
+
+
+
+
+
 
 
 # AssignmentDataCourseProject
